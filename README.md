@@ -33,7 +33,7 @@ We learnt many things on how to develop apps in android studio using Java and XM
 ## What's next for EcoWare.ai :world_map:
 Using Google's Location API to automatically locate the city and provide user with information based on their current location, instead of just the few cities that we have.
 
-
+<hr>
 
 ### Sources:
 Portion of Images : https://github.com/AgaMiko/waste-datasets-review<br>TensorFlow Help: https://github.com/IJ-Apps/Image-Classification-App-with-Custom-TensorFlow-Model
