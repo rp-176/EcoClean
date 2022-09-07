@@ -5,7 +5,8 @@
 <h1 align="center">EcoWare.ai</h1>
 <div align="center">
     <h4>Rishi P. & Dharsan R.</h4>
-<div>
+</div>
+    
 ## Inspiration :bulb:
 We got inspiration one day trying to figure out where to recycle batteries, we went to our cities recycling page and were left extremely confused by the outdated site. We felt that almost everyone would be left confused and just leave their e-waste and recycling in the trash. 
 
