@@ -1,6 +1,4 @@
-<p align="center"> 
-<img width="180" height="180" src="app/src/main/res/drawable/logo5.png">
-</p>
+<img align="center" width="180" height="180" src="app/src/main/res/drawable/logo5.png">
 
 <h1 align="center">EcoWare.ai</h1>
 <h4 style="text-align:center;">Rishi P. & Dharsan R.</h4>
